@@ -1,4 +1,4 @@
-## Atividade de Soluções WEB - Eng. Comp SATC
+## Atividade de Soluções WEB - Eng. da Computação - UniSATC
 
 ```bash
 Atividade de chat online
