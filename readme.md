@@ -1,5 +1,4 @@
-## Atividade de Soluções WEB - Eng. da Computação - UniSATC
-
+## Soluções WEB
 Atividade de Chat On-line (HTML e JavaScript)
 
 ```bash
@@ -8,4 +7,5 @@ a tela com as mensagens enviadas pelos cliente e atendente.
 
 Descrição: Chat de atendimento ao cliente aos setores de: Administrativo e Suporte.
 ```
-Desenvolvido por: Maria Eduarda Smidt da Silva
+Desenvolvido por: Maria Eduarda Smidt da Silva  
+Engenharia da Computação - UniSATC
