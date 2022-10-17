@@ -1,11 +1,9 @@
-## Soluções WEB
-Atividade de Chat On-line (HTML e JavaScript)
+<!-- SOBRE O PROJETO -->
+## Sobre o projeto
+
+Projeto realizado na matéria de 'Soluções WEB' do curso de Engenharia da Computação da UNISATC.
 
 ```bash
-Objetivo: Utilizar HTML e JavaScript para criar um chat de atendimento, monitorando o envio de dados 
-ao formulário, e atualizando a tela com as mensagens enviadas pelos cliente e atendente.
-
-Descrição: Chat de atendimento ao cliente aos setores de: Administrativo e Suporte.
+Objetivo: utilizar HTML e JavaScipt para realizar a criação de um chat de atendimento ao cliente, monitorando o envio de dados ao
+formulário e atualizando a tela conforme as mensagens são enviadas pelo cliente ou atendente.
 ```
-Desenvolvido por: Maria Eduarda Smidt da Silva  
-Engenharia da Computação - Universidade SATC
